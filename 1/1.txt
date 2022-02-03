@@ -1,1 +1,24 @@
-
+1.1. 
+When developing any software, testing of the written code is carried out. There may be multiple versions of a particular part or the entire project. Version control systems (VCS) provide a convenient way to store multiple versions of the same document, allowing you to easily and quickly identify any changes that have been made, as well as the author of those changes.
+GIT allow programmers to work on one project, but bring in different functional without interrupting another member in team. 
+Also GIT is good platform to store different files.
+1.2.
+git init
+This command turns a directory into an empty Git repository.
+git add
+Adds files in the to the staging area for Git. Before a file is available to commit to a repository, the file needs to be added
+git commit
+Record the changes made to the files
+git status
+This command returns the current state of the repository.
+git branch
+To determine what branch the repository is on, add a new branch, or delete a branch.
+git clone
+To create a local working copy of an existing remote repository
+git pull
+To get the latest version of a repository
+git push
+Sends local commits to the remote repository
+2.
+jopiks-s - github username
+jopiks-s/OS - repository name
